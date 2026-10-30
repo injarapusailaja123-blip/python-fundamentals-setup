@@ -1,13 +1,10 @@
-# Yuva Intern - Python Fundamentals & Setup Report
+# Python Fundamentals Setup
 
-6) Git & GitHub: Account created successfully.
+Yuva Intern Phase 1 Setup
 
-7) Hello World: Code executed - Output: Hello World - Yuva Intern Setup Done! Python is working on my phone
+## Setup
+- Python 3.x
+- pip install -r requirements.txt
 
-8) Team Workflows: Understood communication protocols.
-
-9) Documentation: Completed reading Python documentation.
-
-10) Onboarding: Mobile environment ready.
-
-11) Final: Ready for Phase 2.
+## Run
+python src/main.py
